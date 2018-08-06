@@ -1,6 +1,5 @@
 var gulp         = require('gulp'),
     plumber      = require('gulp-plumber'),
-    gutil        = require('gulp-util'),
     mjml         = require('gulp-mjml'),
     browserSync  = require('browser-sync'),
     reload       = browserSync.reload,

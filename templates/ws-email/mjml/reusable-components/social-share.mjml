@@ -1,0 +1,19 @@
+<mj-section border-top="1px solid #c9c9c9" border-bottom="1px solid #c9c9c9">
+  <mj-column>
+    <mj-image width="119px" src="https://media.windstarcruises.com/email/template/Footer_Copy_Share_2x.png" />
+  </mj-column>
+  <mj-group>
+    <mj-column>
+      <mj-image width="35px" src="https://media.windstarcruises.com/email/template/Footer_Social_TW_2x.png" padding="0" />
+    </mj-column>
+    <mj-column>
+      <mj-image width="35px" src="https://media.windstarcruises.com/email/template/Footer_Social_FB_2x.png" padding="0" />
+    </mj-column>
+    <mj-column>
+      <mj-image width="35px" src="https://media.windstarcruises.com/email/template/Footer_Social_Blog_2x.png" padding="0" />
+    </mj-column>
+  </mj-group>
+  <mj-column>
+    <mj-image width="138px" src="https://media.windstarcruises.com/email/template/Footer_Copy_Hashtag_2x.png" />
+  </mj-column>
+</mj-section>

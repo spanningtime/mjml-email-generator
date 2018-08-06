@@ -1,0 +1,39 @@
+<mj-style>
+  @media only screen and (min-width: 600px) {
+    .show-mob {
+          display: none !important;
+      }
+      .mj-column-per-33 {
+        width: 33.3333333333333336% !important;
+        max-width: 33.3333333333333336%;
+      }
+  }
+  .show-mob {
+      display: none !important;
+  }
+  .hide-mob {
+      display: inline-block !important;
+  }
+  .desk__text-left {
+      text-align: left !important;
+  }
+
+  /*  MOBILE  */
+  @media screen and (max-width:599px){
+      .show-mob {
+          display: inline-block !important;
+      }
+      .hide-mob {
+          display: none !important;
+      }
+      .mob__text-center {
+        text-align: center !important;
+      }
+  }
+
+</mj-style>
+<mj-style inline="inline">
+  .show-mob {
+    display: none;
+  }
+</mj-style>

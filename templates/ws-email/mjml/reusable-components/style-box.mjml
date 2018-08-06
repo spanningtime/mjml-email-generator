@@ -1,0 +1,47 @@
+<!-- STYLE BOX -->
+<mj-section>
+  <mj-spacer  />
+</mj-section>
+<mj-wrapper padding="0 25px">
+  <mj-section padding="0" border-top="1px solid #000000" border-left="1px solid #000000" border-right="1px solid #000000">
+    <mj-group>
+      <mj-column width="50%" padding="5px 0" vertical-align="middle">
+        <mj-image width="200px" src="https://s3.amazonaws.com/windstarcruises-media/email/template/style-logo.png" />
+      </mj-column>
+      <mj-column width="50%" border-left="1px solid #3396b8" padding="5px 0">
+        <mj-text font-family="Arial, helvetica, sans-serif" color="#4d4d4d" font-size="13" line-height="16px">
+          <b>An intimate and welcoming ambience</b> makes it easy to connect with your fellow travelers and crew
+        </mj-text>
+      </mj-column>
+    </mj-group>
+  </mj-section>
+  <mj-section padding="0" border-left="1px solid #000000" border-right="1px solid #000000">
+    <mj-group>
+      <mj-column padding="5px 0" width="50%" border-top="1px solid #3396b8" border-bottom="1px solid #3396b8" padding="0">
+        <mj-text font-family="Arial, helvetica, sans-serif" color="#4d4d4d" line-height="18px" font-size="13">
+          <b>Leave the crowds and clichés behind</b> on small, elegant ships that carry less than 310 travelers
+        </mj-text>
+      </mj-column>
+      <mj-column padding="5px 0" width="50%" border-top="1px solid #3396b8" border-left="1px solid #3396b8" border-bottom="1px solid #3396b8">
+        <mj-text font-family="Arial, helvetica, sans-serif" color="#4d4d4d" line-height="18px" font-size="13">
+          <b>An intimate and welcoming ambience</b> makes it easy to connect with your fellow travelers and crew
+        </mj-text>
+      </mj-column>
+    </mj-group>
+  </mj-section>
+  <mj-section padding="0">
+    <mj-group>
+      <mj-column padding="5px 0" width="50%" border-bottom="1px solid #000000" border-left="1px solid #000000" padding="0">
+        <mj-text font-family="Arial, helvetica, sans-serif" color="#4d4d4d" line-height="18px" font-size="13">
+          <b>Leave the crowds and clichés behind</b> on small, elegant ships that carry less than 310 travelers
+        </mj-text>
+      </mj-column>
+      <mj-column padding="5px 0" width="50%" border-bottom="1px solid #000000" border-left="1px solid #3396b8" border-right="1px solid #000000">
+        <mj-text font-family="Arial, helvetica, sans-serif" color="#4d4d4d" line-height="18px" font-size="13">
+          <b>An intimate and welcoming ambience</b> makes it easy to connect with your fellow travelers and crew
+        </mj-text>
+      </mj-column>
+    </mj-group>
+  </mj-section>
+</mj-wrapper>
+<!-- /STYLE BOX -->

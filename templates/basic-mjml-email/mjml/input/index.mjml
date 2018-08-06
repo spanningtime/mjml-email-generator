@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-title>Basic MJML Email</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-include path="includes/header.mjml" />
+
+    <mj-hero
+      background-url="https://placeimg.com/600/200/arch"
+      background-height="200px"
+      background-width="600px"
+      mode="fluid-height"
+      vertical-align="middle">
+      <mj-text color="#ffffff" align="center" font-size="50px">
+        Basic MJML Email
+      </mj-text>
+    </mj-hero>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="30px" align="center">
+          Lorem Ipsum
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="50px"/>
+
+    <mj-include path="includes/footer.mjml" />
+  </mj-body>
+</mjml>

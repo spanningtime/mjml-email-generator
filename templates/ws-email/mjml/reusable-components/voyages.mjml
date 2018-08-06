@@ -1,0 +1,274 @@
+<!-- VOYAGES BLOCK -->
+<mj-section padding="0">
+  <mj-column>
+    <mj-image padding="0" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Asia_1.jpg" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+
+  <mj-column width="32">
+    <mj-raw>
+      <tr>
+        <td class="hide-mob">
+          <img width="32" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Asia_2.jpg" style="width:32px;">
+        </td>
+      </tr>
+      <tr><td class="hide-mob" height="435" width="32" style="32px; background-color: #F5F5F5; height: 435px;"></td></tr>
+    </mj-raw>
+  </mj-column>
+
+  <mj-column align="center" width="268">
+
+    <mj-raw>
+        <!-- DESKTOP VOYAGE IMAGE -->
+        <td class="hide-mob" style="width:232px; padding: 28px 10px 28px 20px">
+          <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_V1.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100%">
+        </td>
+        <!-- /DESKTOP VOYAGE IMAGE -->
+
+        <!-- MOBILE VOYAGE IMAGE -->
+        <!--[if !mso]><!-- -->
+        <td class="show-mob" style="padding: 25px;">
+          <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+              <tr>
+                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                    <tbody>
+                      <tr>
+                        <td style="width:600px;">
+                            <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_mobile_V1.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="600">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+          </div>
+        </td>
+        <!--<![endif]-->
+        <!-- /MOBILE VOYAGE IMAGE -->
+    </mj-raw>
+
+    <!-- VOYAGE COPY -->
+    <mj-text mj-class="voy-title">Jakarta, Java, Indonesia</mj-text>
+    <mj-text mj-class="voy-sub">
+        From $3,499 Per Guest
+    </mj-text>
+    <mj-text mj-class="voy-copy">
+        Jump on the Sky Lift and view the Taman Mini Indonesia Indah, a beautiful park with faux lakes in the shape of the Indonesian archipelago.
+    </mj-text>
+    <mj-text mj-class="voy-link" href="#">
+        Comprehensive Indonesia Exploration >
+    </mj-text>
+    <!-- /VOYAGE COPY -->
+
+  </mj-column>
+
+  <mj-column align="center" width="268">
+    <mj-raw>
+        <!-- DESKTOP VOYAGE IMAGE -->
+        <td class="hide-mob" style="width:232px; padding: 28px 10px 28px 20px">
+          <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_V2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100%">
+        </td>
+        <!-- /DESKTOP VOYAGE IMAGE -->
+
+        <!-- MOBILE VOYAGE IMAGE -->
+        <!--[if !mso]><!-- -->
+        <td class="show-mob" style="padding: 25px;">
+          <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+              <tr>
+                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                    <tbody>
+                      <tr>
+                        <td style="width:600px;">
+                            <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_mobile_V2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="600">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+          </div>
+        </td>
+        <!--<![endif]-->
+        <!-- /MOBILE VOYAGE IMAGE -->
+    </mj-raw>
+
+    <!-- VOYAGE COPY -->
+    <mj-text mj-class="voy-title">Takamatsu, Kagawa, Japan</mj-text>
+    <mj-text mj-class="voy-sub">
+        From $4,599 Per Guest
+    </mj-text>
+    <mj-text mj-class="voy-copy">
+        Jump on the Sky Lift and view the Taman Mini Indonesia Indah, a beautiful park with faux lakes in the shape of the Indonesian archipelago.
+    </mj-text>
+    <mj-text mj-class="voy-link" href="#">
+        Comprehensive Indonesia Exploration >
+    </mj-text>
+    <!-- /VOYAGE COPY -->
+
+  </mj-column>
+
+  <mj-column width="32">
+    <mj-raw>
+      <tr>
+        <td class="hide-mob">
+          <img width="32" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Asia_3.jpg" style="width:32px;">
+        </td>
+      </tr>
+      <tr><td class="hide-mob" height="435" width="32" style="32px; background-color: #F5F5F5; height: 435px;"></td></tr>
+    </mj-raw>
+  </mj-column>
+
+</mj-section>
+
+<!-- GRAY SPACER -->
+<mj-section background-color="#F5F5F5;">
+  <mj-spacer />
+</mj-section>
+<!--  /GRAY SPACER -->
+<!-- /VOYAGES BLOCK -->
+
+
+<!-- VOYAGES BLOCK -->
+<mj-section padding="0">
+  <mj-column>
+    <mj-image padding="0" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Europe_1.jpg" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+
+  <mj-column width="32">
+    <mj-raw>
+      <tr>
+        <td class="hide-mob">
+          <img width="32" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Europe_2.jpg" style="width:32px;">
+        </td>
+      </tr>
+      <tr><td class="hide-mob" height="435" width="32" style="32px; background-color: #F5F5F5; height: 435px;"></td></tr>
+    </mj-raw>
+  </mj-column>
+
+  <mj-column align="center" width="268">
+
+    <mj-raw>
+        <!-- DESKTOP VOYAGE IMAGE -->
+        <td class="hide-mob" style="width:232px; padding: 28px 10px 28px 20px">
+          <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_V1.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100%">
+        </td>
+        <!-- /DESKTOP VOYAGE IMAGE -->
+
+        <!-- MOBILE VOYAGE IMAGE -->
+        <!--[if !mso]><!-- -->
+        <td class="show-mob" style="padding: 25px;">
+          <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+              <tr>
+                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                    <tbody>
+                      <tr>
+                        <td style="width:600px;">
+                            <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_mobile_V1.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="600">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+          </div>
+        </td>
+        <!--<![endif]-->
+        <!-- /MOBILE VOYAGE IMAGE -->
+    </mj-raw>
+
+    <!-- VOYAGE COPY -->
+    <mj-text mj-class="voy-title">Jakarta, Java, Indonesia</mj-text>
+    <mj-text mj-class="voy-sub">
+        From $3,499 Per Guest
+    </mj-text>
+    <mj-text mj-class="voy-copy">
+        Jump on the Sky Lift and view the Taman Mini Indonesia Indah, a beautiful park with faux lakes in the shape of the Indonesian archipelago.
+    </mj-text>
+    <mj-text mj-class="voy-link" href="#">
+        Comprehensive Indonesia Exploration >
+    </mj-text>
+    <!-- /VOYAGE COPY -->
+
+  </mj-column>
+
+  <mj-column align="center" width="268">
+    <mj-raw>
+        <!-- DESKTOP VOYAGE IMAGE -->
+        <td class="hide-mob" style="width:232px; padding: 28px 10px 28px 20px">
+          <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_V2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100%">
+        </td>
+        <!-- /DESKTOP VOYAGE IMAGE -->
+
+        <!-- MOBILE VOYAGE IMAGE -->
+        <!--[if !mso]><!-- -->
+        <td class="show-mob" style="padding: 25px;">
+          <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+              <tr>
+                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                    <tbody>
+                      <tr>
+                        <td style="width:600px;">
+                            <img height="auto" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_mobile_V2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="600">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+          </div>
+        </td>
+        <!--<![endif]-->
+        <!-- /MOBILE VOYAGE IMAGE -->
+    </mj-raw>
+
+    <!-- VOYAGE COPY -->
+    <mj-text mj-class="voy-title">Takamatsu, Kagawa, Japan</mj-text>
+    <mj-text mj-class="voy-sub">
+        From $4,599 Per Guest
+    </mj-text>
+    <mj-text mj-class="voy-copy">
+        Jump on the Sky Lift and view the Taman Mini Indonesia Indah, a beautiful park with faux lakes in the shape of the Indonesian archipelago.
+    </mj-text>
+    <mj-text mj-class="voy-link" href="#">
+        Comprehensive Indonesia Exploration >
+    </mj-text>
+    <!-- /VOYAGE COPY -->
+
+  </mj-column>
+
+  <mj-column width="32">
+    <mj-raw>
+      <tr>
+        <td class="hide-mob">
+          <img width="32" src="https://s3.amazonaws.com/windstarcruises-media/email/2018/Q2/Destinations/WS_Destinations_Campaign+1_desktop_Europe_3.jpg" style="width:32px;">
+        </td>
+      </tr>
+      <tr><td class="hide-mob" height="435" width="32" style="32px; background-color: #F5F5F5; height: 435px;"></td></tr>
+    </mj-raw>
+  </mj-column>
+
+</mj-section>
+
+<!-- GRAY SPACER -->
+<mj-section background-color="#F5F5F5;">
+  <mj-spacer />
+</mj-section>
+<!--  /GRAY SPACER -->
+<!-- /VOYAGES BLOCK -->

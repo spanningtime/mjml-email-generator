@@ -1,0 +1,11 @@
+<mj-section>
+  <mj-column width="235px" padding="5px">
+    <mj-image padding="0" width="225px" src="https://media.windstarcruises.com/email/template/terms-cta.jpg" />
+  </mj-column>
+  <mj-column width="177px" padding="5px">
+    <mj-image padding="0" width="167px" src="https://media.windstarcruises.com/email/template/privacy-cta.jpg" />
+  </mj-column>
+  <mj-column width="150px" padding="5px">
+    <mj-image padding="0" width="140px" src="https://media.windstarcruises.com/email/template/unsub-cta.jpg" />
+  </mj-column>
+</mj-section>
